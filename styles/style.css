@@ -1,5 +1,6 @@
 #body{
     text-align: center;
+    background-color: coral;
 }
 .titulo-principal{
     text-align: center;
@@ -9,4 +10,3 @@
 #img{
     width: 100%;
 }
-
